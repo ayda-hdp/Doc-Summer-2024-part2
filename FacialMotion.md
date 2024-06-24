@@ -16,9 +16,7 @@ This guide will help you set up the necessary hardware and software to record a 
    - Once all connections are established, power on the camera.
 2. *Power Up the Teradek Bolt*:
    - Turn on the Teradek Bolt device.
-3. *Check Battery and Connections*:
-   - If neither the camera nor the transmitter powers up, check the battery's charge. Recharge if needed.
-4. *Begin Recording*:
+3. *Begin Recording*:
    - If the Teradek Bolt displays "sending video" or if Faceware Shepherd shows "status ready" without error messages, you're set to record. If not, follow these tips to troubleshoot.
 
 ## Importing and Processing Video in Faceware Studio
