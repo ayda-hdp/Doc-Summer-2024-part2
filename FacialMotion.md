@@ -59,6 +59,3 @@ Faceware also offers live client plugins for Unity and MotionBuilder.
 
 ### Shepherd
 - An application built to help you easily sync, configure, and manage multiple recording decks at the same time.
-
-## Next Steps
-- For further instructions, please proceed to the [Git Bash setup](Gitbash.md).
