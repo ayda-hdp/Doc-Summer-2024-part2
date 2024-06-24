@@ -48,14 +48,16 @@ Faceware also offers live client plugins for Unity and MotionBuilder.
 - *Faceware Software*:
   - Faceware provides four different software applications, each serving a unique purpose:
 
+### Faceware Studio
+- Offers real-time tracking and calibration, allowing for capture review and application of facial movements.
+
+### Shepherd
+- An application built to help you easily sync, configure, and manage multiple recording decks at the same time.
+
 ### Analyzer
 - A facial tracking software that analyzes video recordings to capture facial movements.
 
 ### Retargeter
 - A facial animation plugin compatible with Maya, 3ds Max, and MotionBuilder, used to apply captured facial data to digital characters.
 
-### Faceware Studio
-- Offers real-time tracking and calibration, allowing for capture review and application of facial movements.
 
-### Shepherd
-- An application built to help you easily sync, configure, and manage multiple recording decks at the same time.
