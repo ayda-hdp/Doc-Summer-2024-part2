@@ -1,2 +1,4 @@
 this is the test doc
-(FaceWear)[faceWearStudio.md]
+
+
+[FaceWear](faceWearStudio.md)
