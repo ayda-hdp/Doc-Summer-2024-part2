@@ -12,15 +12,14 @@ This guide will help you set up and record high-quality video using Faceware Stu
      <img src="images/setup_overview.png" width="600" height="400" alt="Hardware Setup Overview"></p>
 
 ## Steps to Record a Video Using Mark IV
-
-1. *Activate the Camera*:
+1. *Launch Faceware Shepherd*:
+   - Login using the username/password given on the key.
+2. *Activate the Camera*:
    - Once all connections are established, power on the camera.
-2. *Power Up the Teradek Bolt*:
+3. *Power Up the Teradek Bolt*:
    - Turn on the Teradek Bolt device.
-3. *Check Battery and Connections*:
-   - If neither the camera nor the transmitter powers up, check the battery's charge. Recharge if needed.
 4. *Begin Recording*:
-   - If the Teradek Bolt displays "sending video" or if Faceware Shepherd shows "status ready" without error messages, you're set to record. If not, follow these tips to troubleshoot.
+   - If the Teradek Bolt displays "sending video" or if Faceware Shepherd shows "status ready", you're set to record.
 
 ## Importing and Processing Video in Faceware Studio
 
@@ -64,6 +63,8 @@ This guide will help you set up and record high-quality video using Faceware Stu
      <p align="center">
        <img src="images/faceware/metahuman.png" width="500" height="350" alt="Using MetaHuman"></p>
 
+
+
 ## Troubleshooting Data Streaming Issues
 
 If the data streaming seems unreliable:
@@ -81,18 +82,3 @@ Faceware also offers live client plugins for Unity and MotionBuilder.
   - If you intend to live stream, ensure that AJA U-TAP is correctly configured and connected.
 - *Faceware Software*:
   - Faceware provides four different software applications, each serving a unique purpose:
-
-### Analyzer
-- A facial tracking software that analyzes video recordings to capture facial movements.
-
-### Retargeter
-- A facial animation plugin compatible with Maya, 3ds Max, and MotionBuilder, used to apply captured facial data to digital characters.
-
-### Faceware Studio
-- Offers real-time tracking and calibration, allowing for capture review and application of facial movements.
-
-### Shepherd
-- An application built to help you easily sync, configure, and manage multiple recording decks at the same time.
-
-## Next Steps
-- For further instructions, please proceed to the [Git Bash setup](Gitbash.md).
