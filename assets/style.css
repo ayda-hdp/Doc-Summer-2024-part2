@@ -1,0 +1,37 @@
+/* Custom styles for overriding Cayman theme */
+
+/* General Styles */
+body {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Default text color */
+}
+
+/* Header */
+header {
+    background-color: #630031; /* Maroon background for header */
+    color: #ffffff; /* White text color for header */
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+/* Footer */
+footer {
+    background-color: #630031; /* Maroon background for footer */
+    color: #ffffff; /* White text color for footer */
+}
+
+/* Links */
+a {
+    color: #CF4420; /* Orange links */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Titles */
+h1, h2, h3, h4, h5, h6 {
+    color: #630031; /* Maroon titles */
+}
