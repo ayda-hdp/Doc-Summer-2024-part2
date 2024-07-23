@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 title: Facial Motion Capture 4030 Documentation
 description: Sequential Workflow Guide for Facial Motion Capture Tools
 baseurl: "/Doc-Summer-2024-part2" # the subpath of your site, e.g. /blog
