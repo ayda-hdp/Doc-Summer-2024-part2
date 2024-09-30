@@ -14,7 +14,7 @@ This document provides a list of commonly used commands for maintaining and trou
   If you need to restart Klipper, click on:  
   `restart Klipper`
    <p align="center">
-     <img src="assets/restart.png" width="275" height="197" alt="Klipper"></p>
+     <img src="assets/restart.jpg" width="275" height="197" alt="Klipper"></p>
   
 
 - **Check Printer Status**  
