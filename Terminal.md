@@ -1,4 +1,11 @@
-# Voron Printer Maintenance Commands
+---
+title: Voron Commands
+layout: default
+parent: Maintenance Resources
+nav_order: 2
+---
+
+# Voron Maintenance Commands
 
 This document provides a list of commonly used commands for maintaining and troubleshooting Voron 3D printers.
 
