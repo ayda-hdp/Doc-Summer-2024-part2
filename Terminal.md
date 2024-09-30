@@ -10,6 +10,7 @@ This document provides a list of commonly used commands for maintaining and trou
   2. Restart Klipper by typing:  
   `FIRMWARE_RESTART`
 
+pic
 
 - **Check Printer Status**  
   Check the current status of the printer with:  
